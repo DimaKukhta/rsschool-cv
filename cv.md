@@ -1,18 +1,24 @@
-#CV
-*Имя и фамилия : Кухта Дмитрий
-*Контакты для связи: 
-    *email: dima.kukhta.2001@mai.ru
-*Краткая информация о себе (ваша цель и приоритеты, подчеркните свои сильные стороны, расскажите о своём опыте работы, если опыта работы нет, расскажите о своём стремлении и способности быстро учиться и узнавать новое): Целеустремлённый, опыта работы нету, но очень усидчив. Конечное же узнаю всю в меру быстро, поэтому новые технологии для меня - это довольно легко и интересно.
-*Навыки (языки программирования, фреймворки, методологии, системы контроля версий и инструменты разработки, которыми вы владеете)
-    *Java
-    *C#
-    *Delphi
-    *Html/css
-    *JavaScript
-*Примеры кода : Добавлю позже.
-*Опыт работы. Junior Dev может указать пройденные курсы и тренинги, перечислить учебные проекты, или проекты, выполненные на фрилансе с указанием использованных навыков и ссылками на исходный код.*Опыта работы нету, но проходил несколько курсов всяких разных cs50 и так далее.
-*(Образование (включая курсы, семинары, лекции, онлайн-обучение)
-    *Университет
-    *Оффлайн курсы cs50, и так далее
-*Английский язык (уровень английского языка, если была языковая практика, расскажите о ней)
-    *Ну собственно профильный класс анлийского языка позади, вижу уровень B1.
+* First Name, Last Name (real ones) : Dima Kukhta
+* Contact Info (add several ways to contact you) : 
+   * email : dima.kukhta.2001@mail.ru
+   * tel : +375-29-712-70 -**
+* Summary (your goal, wishes, reveal what is important for you, what do you want and why.
+Some kind of self-presentation. In case of lack of experience  Junior Developer sells his/her potential, his/her passion and ability to learn fast. You shouldn't think that everybody is going to teach you when you come to the workplace . Rather being a Junior means always
+learning new things from everywhere etc.): 
+ * *Now I am studying at the university. I am interested in the IT industry and I think that it is quite interesting.It's quite easy for me, I'm quite assiduous. I like IT.*
+* Skills (e.g. programming languages, frameworks, methodologies, version control, tools etc.):
+   * Java
+   * C#
+   * Delphi
+   * Html / css
+   * JavaScript
+   * MySQL
+   * Git / GitHub
+* Code examples (LATEST) : *I'll add later.*
+* Experience (for a Junior Dev it means all kinds of experience: coding tests, projects from courses,
+freelance projects - wherever they had the opportunity to demonstrate skills they have.
+Also it would be awesome if you add links to source code): *Laboratory work at the university, and various tasks from the Internet.*
+* Education (including courses, seminars, lectures, online learning):
+   * I'm study at university
+   * Completed courses such as cs50 and others.
+* English (elaborate on what kind of practice you had, if any, how long it lasted and so on): *I finished my profile class in English. I think that is B1.*
