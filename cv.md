@@ -19,6 +19,6 @@ learning new things from everywhere etc.):
 freelance projects - wherever they had the opportunity to demonstrate skills they have.
 Also it would be awesome if you add links to source code): *Laboratory work at the university, and various tasks from the Internet.*
 * Education (including courses, seminars, lectures, online learning):
-   * I'm study at university
+   * I'm study at university.
    * Completed courses such as cs50 and others.
-* English (elaborate on what kind of practice you had, if any, how long it lasted and so on): *I finished my profile class in English. I think that is B1.*
+* English (elaborate on what kind of practice you had, if any, how long it lasted and so on): *I finished my profile class in English. I think that is B1.*s
